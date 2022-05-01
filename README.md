@@ -1,14 +1,12 @@
-# Welcome to your CDK TypeScript project
+Emry's Hackathon Project - Creating A Virtual Private Cloud In AWS
+============
+Author: Emry Krems
+------------------
 
-This is a blank project for CDK development with TypeScript.
+For my hackathon project, I was interested in checking out something using AWS as we briefly talked about it in class and it was mentioned multiple times on the industry leaders survey. I went through some of the beginning modules to begin using AWS and learned about IAM, CLI, the portal, and how to create a VPC. 
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+Using Emry's VPC:
+---------------
+ - Unfortunately, my VPC cannot be deployed on your machine using the files provided. However, you can take a look at the files that allowed me to make an AWS VPC! I also included a screenshot of what the VPC looks like on my portal in AWS. 
 
-## Useful commands
-
-* `npm run build`   compile typescript to js
-* `npm run watch`   watch for changes and compile
-* `npm run test`    perform the jest unit tests
-* `cdk deploy`      deploy this stack to your default AWS account/region
-* `cdk diff`        compare deployed stack with current state
-* `cdk synth`       emits the synthesized CloudFormation template
+:)
